@@ -45,14 +45,7 @@ Hey there! I'm **Rabia Tahir**, a driven software engineer with a passion for cy
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rabiatahir&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rabiatahir&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 
