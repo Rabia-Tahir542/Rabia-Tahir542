@@ -30,7 +30,7 @@ Hey there! I'm **Rabia Tahir**, a driven software engineer with a passion for cy
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,html,css,azure,gcp,git,github,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,azure,git,github,postman,figma" />
 </p>
 
 ---
