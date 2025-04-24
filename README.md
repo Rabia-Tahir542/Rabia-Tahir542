@@ -20,7 +20,7 @@ Hey there! I'm **Rabia Tahir**, a driven software engineer with a passion for cy
 ### 💼 My Journey
 
 - 🎓 **Education**: BTM Grad | Software Engineering Diploma
-- 🔐 **Cybersecurity**: Hands-on with **ZAP**, **Wireshark**, **Splunk**, **Azure**, **GCP SCC**
+- 🔐 **Cybersecurity**: Hands-on with **ZAP**, **Wireshark**, **Azure**, **AWS**
 - 🛠️ **Builder**: Login/Register systems, dashboards, & AI tools
 - 🚀 **Hackathon Enthusiast**: Co-developed *Git Force*, an AI translator in just 24h!
 - 💬 **Leader & Volunteer**: Practera PM | WiCyS | SiberX | TPWC
